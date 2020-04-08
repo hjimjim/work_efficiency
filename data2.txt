@@ -1,0 +1,12 @@
+host1/ sw1/ vlan1/
+host1/ sw1/ vlan2/
+host1/ sw2/ vlan4/
+host1/ sw2/ vlan5/
+host1/ sw2/ vlan6/
+host1/ sw3/ vlan7/
+host2/ sw1/ vlan1/
+host2/ sw1/ vlan2/
+host2/ sw2/ vlan4/
+host2/ sw2/ vlan5/
+host2/ sw2/ vlan6/
+host2/ sw3/ vlan7/

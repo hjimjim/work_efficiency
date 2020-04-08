@@ -1,0 +1,12 @@
+host1/ sw1/ nic1/
+host1/ sw1/ nic2/
+host1/ sw2/ nic4/
+host1/ sw2/ nic5/
+host1/ sw2/ nic6/
+host1/ sw3/ nic7/
+host2/ sw1/ nic1/
+host2/ sw1/ nic2/
+host2/ sw2/ nic4/
+host2/ sw2/ nic5/
+host2/ sw2/ nic6/
+host2/ sw3/ nic7/
