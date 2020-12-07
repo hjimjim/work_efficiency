@@ -3,6 +3,7 @@ data = open("data.txt", 'r')
 lines = data.readlines()
 
 hosts = []
+print("hello")
 for line in lines :
     check_host = []
     check_sw = False
